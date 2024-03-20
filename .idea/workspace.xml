@@ -1,7 +1,69 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="6f23d3da-a21d-42b5-922d-01e342dd440c" name="Changes" comment="" />
+    <list default="true" id="6f23d3da-a21d-42b5-922d-01e342dd440c" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/spring-guide/spring-annotation/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web-guide/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring/t-spring-annotation/doc.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring/t-spring-annotation/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/spring-guide/spring-annotation/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring/t-spring-annotation/src/main/java/com/xulei/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/spring-guide/spring-annotation/src/main/java/com/xulei/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring/t-spring-annotation/src/main/java/com/xulei/config/ApplicationContextConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/spring-guide/spring-annotation/src/main/java/com/xulei/config/ApplicationContextConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring/t-spring-annotation/src/main/java/com/xulei/dao/demo/DemoDao.java" beforeDir="false" afterPath="$PROJECT_DIR$/spring-guide/spring-annotation/src/main/java/com/xulei/dao/demo/DemoDao.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring/t-spring-annotation/src/main/java/com/xulei/dao/demo/DemoDaoImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/spring-guide/spring-annotation/src/main/java/com/xulei/dao/demo/DemoDaoImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring/t-spring-annotation/src/main/java/com/xulei/pojo/Demo.java" beforeDir="false" afterPath="$PROJECT_DIR$/spring-guide/spring-annotation/src/main/java/com/xulei/pojo/Demo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring/t-spring-annotation/src/main/java/com/xulei/service/demo/DemoService.java" beforeDir="false" afterPath="$PROJECT_DIR$/spring-guide/spring-annotation/src/main/java/com/xulei/service/demo/DemoService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring/t-spring-annotation/src/main/java/com/xulei/service/demo/DemoServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/spring-guide/spring-annotation/src/main/java/com/xulei/service/demo/DemoServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring/t-spring-annotation/src/main/resources/db.properties" beforeDir="false" afterPath="$PROJECT_DIR$/spring-guide/spring-annotation/src/main/resources/db.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring/t-spring-annotation/src/test/java/TestSpringAnnotation.java" beforeDir="false" afterPath="$PROJECT_DIR$/spring-guide/spring-annotation/src/test/java/TestSpringAnnotation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring/t-spring-aop/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/spring-guide/spring-aop/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring/t-spring-aop/src/main/java/com/xulei/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/spring-guide/spring-aop/src/main/java/com/xulei/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring/t-spring-aop/src/main/resources/applicationContext.xml" beforeDir="false" afterPath="$PROJECT_DIR$/spring-guide/spring-aop/src/main/resources/applicationContext.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring/t-spring-mvc/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/spring-guide/spring-mvc/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring/t-spring-mvc/src/main/java/com/xulei/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/spring-guide/spring-mvc/src/main/java/com/xulei/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring/t-spring-mvc/src/main/java/com/xulei/controller/HelloController.java" beforeDir="false" afterPath="$PROJECT_DIR$/spring-guide/spring-mvc/src/main/java/com/xulei/controller/HelloController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring/t-spring-mvc/src/main/java/com/xulei/controller/HelloController2.java" beforeDir="false" afterPath="$PROJECT_DIR$/spring-guide/spring-mvc/src/main/java/com/xulei/controller/HelloController2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring/t-spring-mvc/src/main/resources/springmvc-servlet.xml" beforeDir="false" afterPath="$PROJECT_DIR$/spring-guide/spring-mvc/src/main/resources/springmvc-servlet.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring/t-spring-mvc/src/main/webapp/WEB-INF/jsp/hello.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/spring-guide/spring-mvc/src/main/webapp/WEB-INF/jsp/hello.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring/t-spring-mvc/src/main/webapp/WEB-INF/web.xml" beforeDir="false" afterPath="$PROJECT_DIR$/spring-guide/spring-mvc/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring/t-spring-mvc/src/main/webapp/index.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/spring-guide/spring-mvc/src/main/webapp/index.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring/t-spring-xml/doc.md" beforeDir="false" afterPath="$PROJECT_DIR$/spring-guide/spring-xml/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring/t-spring-xml/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/spring-guide/spring-xml/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring/t-spring-xml/src/main/java/com/xulei/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/spring-guide/spring-xml/src/main/java/com/xulei/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring/t-spring-xml/src/main/java/com/xulei/dao/demo/DemoDao.java" beforeDir="false" afterPath="$PROJECT_DIR$/spring-guide/spring-xml/src/main/java/com/xulei/dao/demo/DemoDao.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring/t-spring-xml/src/main/java/com/xulei/dao/demo/DemoDaoImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/spring-guide/spring-xml/src/main/java/com/xulei/dao/demo/DemoDaoImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring/t-spring-xml/src/main/java/com/xulei/dao/demo/DemoDaoImpl1.java" beforeDir="false" afterPath="$PROJECT_DIR$/spring-guide/spring-xml/src/main/java/com/xulei/dao/demo/DemoDaoImpl1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring/t-spring-xml/src/main/java/com/xulei/dao/demo/DemoDaoImpl2.java" beforeDir="false" afterPath="$PROJECT_DIR$/spring-guide/spring-xml/src/main/java/com/xulei/dao/demo/DemoDaoImpl2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring/t-spring-xml/src/main/java/com/xulei/pojo/Demo.java" beforeDir="false" afterPath="$PROJECT_DIR$/spring-guide/spring-xml/src/main/java/com/xulei/pojo/Demo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring/t-spring-xml/src/main/java/com/xulei/pojo/DemoSet.java" beforeDir="false" afterPath="$PROJECT_DIR$/spring-guide/spring-xml/src/main/java/com/xulei/pojo/DemoSet.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring/t-spring-xml/src/main/java/com/xulei/processor/MyBeanDefinitionRegistryPostProcessor.java" beforeDir="false" afterPath="$PROJECT_DIR$/spring-guide/spring-xml/src/main/java/com/xulei/processor/MyBeanDefinitionRegistryPostProcessor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring/t-spring-xml/src/main/java/com/xulei/processor/MyBeanFactoryPostProcessor.java" beforeDir="false" afterPath="$PROJECT_DIR$/spring-guide/spring-xml/src/main/java/com/xulei/processor/MyBeanFactoryPostProcessor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring/t-spring-xml/src/main/java/com/xulei/processor/MyBeanPostProcessor.java" beforeDir="false" afterPath="$PROJECT_DIR$/spring-guide/spring-xml/src/main/java/com/xulei/processor/MyBeanPostProcessor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring/t-spring-xml/src/main/java/com/xulei/service/demo/DemoService.java" beforeDir="false" afterPath="$PROJECT_DIR$/spring-guide/spring-xml/src/main/java/com/xulei/service/demo/DemoService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring/t-spring-xml/src/main/java/com/xulei/service/demo/DemoServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/spring-guide/spring-xml/src/main/java/com/xulei/service/demo/DemoServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring/t-spring-xml/src/main/resources/applicationContext.xml" beforeDir="false" afterPath="$PROJECT_DIR$/spring-guide/spring-xml/src/main/resources/applicationContext.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring/t-spring-xml/src/main/resources/db.properties" beforeDir="false" afterPath="$PROJECT_DIR$/spring-guide/spring-xml/src/main/resources/db.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring/t-spring-xml/src/main/resources/demo.xml" beforeDir="false" afterPath="$PROJECT_DIR$/spring-guide/spring-xml/src/main/resources/demo.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring/t-spring-xml/src/main/resources/namespace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/spring-guide/spring-xml/src/main/resources/namespace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring/t-spring-xml/src/main/resources/other.xml" beforeDir="false" afterPath="$PROJECT_DIR$/spring-guide/spring-xml/src/main/resources/other.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring/t-spring-xml/src/main/resources/set.xml" beforeDir="false" afterPath="$PROJECT_DIR$/spring-guide/spring-xml/src/main/resources/set.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring/t-spring-xml/src/test/java/com/xulei/TestLoadBeanFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/spring-guide/spring-xml/src/test/java/com/xulei/TestLoadBeanFactory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring/t-spring-xml/src/test/java/com/xulei/TestSeniorLoadBeanFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/spring-guide/spring-xml/src/test/java/com/xulei/TestSeniorLoadBeanFactory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring/t-spring-xml/target/classes/applicationContext.xml" beforeDir="false" afterPath="$PROJECT_DIR$/spring-guide/spring-xml/target/classes/applicationContext.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring/t-spring-xml/target/classes/demo.xml" beforeDir="false" afterPath="$PROJECT_DIR$/spring-guide/spring-xml/target/classes/demo.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring/t-spring-xml/target/classes/namespace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/spring-guide/spring-xml/target/classes/namespace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring/t-spring-xml/target/classes/other.xml" beforeDir="false" afterPath="$PROJECT_DIR$/spring-guide/spring-xml/target/classes/other.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring/t-spring-xml/target/classes/set.xml" beforeDir="false" afterPath="$PROJECT_DIR$/spring-guide/spring-xml/target/classes/set.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring/t-spring-xml/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/spring-guide/spring-xml/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring/t-spring-xml/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/spring-guide/spring-xml/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring/t-spring-xml/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/spring-guide/spring-xml/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring/t-spring-xml/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/spring-guide/spring-xml/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/t-spring-mvc.iml" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -13,9 +75,9 @@
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 1
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 1
+}</component>
   <component name="ProjectId" id="2drh8YE98GUZcMLMIfOrU9ptozG" />
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="1" id="Add" />
@@ -31,12 +93,25 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
     "git-widget-placeholder": "main",
-    "last_opened_file_path": "E:/jungle/github/zz-guide/spring-guide",
+    "last_opened_file_path": "E:/jungle/github/zz-guide/java-web-guide/mybatis-guide",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\jungle\github\zz-guide\java-web-guide\mybatis-guide" />
+      <recent name="E:\jungle\github\zz-guide\java-web-guide\spring" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\jungle\github\zz-guide\java-web-guide\mybatis-guide\mybatis" />
+      <recent name="E:\jungle\github\zz-guide\java-web-guide\web-guide" />
+      <recent name="E:\jungle\github\zz-guide\java-web-guide" />
+      <recent name="E:\jungle\github\zz-guide\java-web-guide\mybatis-guide" />
       <recent name="E:\jungle\github\zz-guide\spring-guide" />
     </key>
   </component>
@@ -49,6 +124,8 @@
       <option name="presentableId" value="Default" />
       <updated>1710771945629</updated>
       <workItem from="1710771946627" duration="77000" />
+      <workItem from="1710923243699" duration="1890000" />
+      <workItem from="1710925260440" duration="890000" />
     </task>
     <servers />
   </component>
