@@ -97,7 +97,7 @@
 
 # JSTL标签
     1.引入坐标
-        javax.servlet
+        jakarta.servlet
             jstl
             1.2
 

@@ -10,6 +10,7 @@
     <modules>
         <module>web-demo1</module>
         <module>web-demo2</module>
+        <module>alipay-sandbox</module>
     </modules>
     <version>1.0-SNAPSHOT</version>
 
@@ -18,8 +19,8 @@
         <maven.compiler.source>17</maven.compiler.source>
         <maven.compiler.target>17</maven.compiler.target>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
-        <servlet.api.version>4.0.1</servlet.api.version>
-        <servlet.jsp.api.version>2.3.3</servlet.jsp.api.version>
+        <servlet.api.version>6.0.0</servlet.api.version>
+        <servlet.jsp.api.version>3.1.1</servlet.jsp.api.version>
         <servlet.jsp.jstl.api.version>3.0.0</servlet.jsp.jstl.api.version>
         <taglibs.standard.impl.version>1.2.5</taglibs.standard.impl.version>
         <fastjson2.version>2.0.47</fastjson2.version>
@@ -29,18 +30,18 @@
 
     <dependencyManagement>
         <dependencies>
-            <!-- https://mvnrepository.com/artifact/javax.servlet/javax.servlet-api -->
+            <!-- https://mvnrepository.com/artifact/jakarta.servlet/jakarta.servlet-api -->
             <dependency>
-                <groupId>javax.servlet</groupId>
-                <artifactId>javax.servlet-api</artifactId>
+                <groupId>jakarta.servlet</groupId>
+                <artifactId>jakarta.servlet-api</artifactId>
                 <version>${servlet.api.version}</version>
                 <scope>provided</scope>
             </dependency>
 
-            <!-- https://mvnrepository.com/artifact/javax.servlet.jsp/javax.servlet.jsp-api -->
+            <!-- https://mvnrepository.com/artifact/jakarta.servlet.jsp/jakarta.servlet.jsp-api -->
             <dependency>
-                <groupId>javax.servlet.jsp</groupId>
-                <artifactId>javax.servlet.jsp-api</artifactId>
+                <groupId>jakarta.servlet.jsp</groupId>
+                <artifactId>jakarta.servlet.jsp-api</artifactId>
                 <version>${servlet.jsp.api.version}</version>
                 <scope>provided</scope>
             </dependency>
