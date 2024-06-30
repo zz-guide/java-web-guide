@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ArtifactsWorkspaceSettings">
     <artifacts-to-build>
-      <artifact name="alipay-sandbox:war" />
+      <artifact name="learn-jsp:war exploded" />
     </artifacts-to-build>
   </component>
   <component name="AutoImportSettings">
@@ -10,32 +10,81 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6f23d3da-a21d-42b5-922d-01e342dd440c" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/FAQ.md" beforeDir="false" afterPath="$PROJECT_DIR$/FAQ.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/learn-jsp/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/learn-jsp/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/learn-jsp/src/main/webapp/index.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/alipay-sandbox/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/alipay-sandbox/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/alipay-sandbox/readme.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/alipay-sandbox/src/main/java/com/alipay/config/MyAlipayConfig.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/alipay-sandbox/src/main/webapp/META-INF/MANIFEST.MF" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/alipay-sandbox/src/main/webapp/alipay.trade.close.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/alipay-sandbox/src/main/webapp/alipay.trade.fastpay.refund.query.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/alipay-sandbox/src/main/webapp/alipay.trade.page.pay.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/alipay-sandbox/src/main/webapp/alipay.trade.query.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/alipay-sandbox/src/main/webapp/alipay.trade.refund.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/alipay-sandbox/src/main/webapp/index.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/alipay-sandbox/src/main/webapp/notify_url.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/alipay-sandbox/src/main/webapp/return_url.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/alipay-sandbox/target/alipay-sandbox-1.0-SNAPSHOT/META-INF/MANIFEST.MF" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/alipay-sandbox/target/alipay-sandbox-1.0-SNAPSHOT/alipay.trade.close.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/alipay-sandbox/target/alipay-sandbox-1.0-SNAPSHOT/alipay.trade.fastpay.refund.query.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/alipay-sandbox/target/alipay-sandbox-1.0-SNAPSHOT/alipay.trade.page.pay.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/alipay-sandbox/target/alipay-sandbox-1.0-SNAPSHOT/alipay.trade.query.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/alipay-sandbox/target/alipay-sandbox-1.0-SNAPSHOT/alipay.trade.refund.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/alipay-sandbox/target/alipay-sandbox-1.0-SNAPSHOT/index.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/alipay-sandbox/target/alipay-sandbox-1.0-SNAPSHOT/notify_url.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/alipay-sandbox/target/alipay-sandbox-1.0-SNAPSHOT/return_url.jsp" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/web-demo1/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/web-demo1/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/web-demo1/src/main/java/org/zz/core/filter/CharacterEncodingFilter.java" beforeDir="false" afterPath="$PROJECT_DIR$/web-demo1/src/main/java/org/zz/core/filter/CharacterEncodingFilter.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/web-demo1/src/main/java/org/zz/core/filter/PostFilter.java" beforeDir="false" afterPath="$PROJECT_DIR$/web-demo1/src/main/java/org/zz/core/filter/PostFilter.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/web-demo1/src/main/java/org/zz/core/filter/PreFilter.java" beforeDir="false" afterPath="$PROJECT_DIR$/web-demo1/src/main/java/org/zz/core/filter/PreFilter.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/web-demo1/src/main/java/org/zz/core/listener/MyServletContextListener.java" beforeDir="false" afterPath="$PROJECT_DIR$/web-demo1/src/main/java/org/zz/core/listener/MyServletContextListener.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/web-demo1/src/main/java/org/zz/core/servlet/cookie/CookieServlet.java" beforeDir="false" afterPath="$PROJECT_DIR$/web-demo1/src/main/java/org/zz/core/servlet/cookie/CookieServlet.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/web-demo1/src/main/java/org/zz/core/servlet/cookie/SessionServlet.java" beforeDir="false" afterPath="$PROJECT_DIR$/web-demo1/src/main/java/org/zz/core/servlet/cookie/SessionServlet.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/web-demo1/src/main/java/org/zz/core/servlet/cookie/SessionServlet2.java" beforeDir="false" afterPath="$PROJECT_DIR$/web-demo1/src/main/java/org/zz/core/servlet/cookie/SessionServlet2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/web-demo1/src/main/java/org/zz/core/servlet/hello/HelloServlet.java" beforeDir="false" afterPath="$PROJECT_DIR$/web-demo1/src/main/java/org/zz/core/servlet/hello/HelloServlet.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/web-demo1/src/main/java/org/zz/core/servlet/hello/HelloServlet1.java" beforeDir="false" afterPath="$PROJECT_DIR$/web-demo1/src/main/java/org/zz/core/servlet/hello/HelloServlet1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/web-demo1/src/main/java/org/zz/core/servlet/hello/HelloServlet2.java" beforeDir="false" afterPath="$PROJECT_DIR$/web-demo1/src/main/java/org/zz/core/servlet/hello/HelloServlet2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/web-demo1/src/main/java/org/zz/core/servlet/learn/LearnServlet.java" beforeDir="false" afterPath="$PROJECT_DIR$/web-demo1/src/main/java/org/zz/core/servlet/learn/LearnServlet.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/web-demo1/src/main/java/org/zz/core/servlet/request/RequestServlet.java" beforeDir="false" afterPath="$PROJECT_DIR$/web-demo1/src/main/java/org/zz/core/servlet/request/RequestServlet.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/web-demo2/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/web-demo2/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/web-demo2/src/main/java/org/zz/core/servlet/jsp/JspServlet.java" beforeDir="false" afterPath="$PROJECT_DIR$/web-demo2/src/main/java/org/zz/core/servlet/jsp/JspServlet.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/web-demo2/src/main/java/org/zz/core/servlet/redirect/RedirectServlet.java" beforeDir="false" afterPath="$PROJECT_DIR$/web-demo2/src/main/java/org/zz/core/servlet/redirect/RedirectServlet.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/web-demo2/src/main/java/org/zz/core/servlet/redirect/RedirectServlet1.java" beforeDir="false" afterPath="$PROJECT_DIR$/web-demo2/src/main/java/org/zz/core/servlet/redirect/RedirectServlet1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/web-demo2/src/main/java/org/zz/core/servlet/redirect/RedirectServlet2.java" beforeDir="false" afterPath="$PROJECT_DIR$/web-demo2/src/main/java/org/zz/core/servlet/redirect/RedirectServlet2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web-demo1/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web-demo1/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/learn-servlet/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web-demo1/src/main/java/org/zz/core/entity/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/learn-servlet/src/main/java/org/zz/core/entity/Student.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web-demo1/src/main/java/org/zz/core/filter/CharacterEncodingFilter.java" beforeDir="false" afterPath="$PROJECT_DIR$/learn-servlet/src/main/java/org/zz/core/filter/CharacterEncodingFilter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web-demo1/src/main/java/org/zz/core/filter/PostFilter.java" beforeDir="false" afterPath="$PROJECT_DIR$/learn-servlet/src/main/java/org/zz/core/filter/PostFilter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web-demo1/src/main/java/org/zz/core/filter/PreFilter.java" beforeDir="false" afterPath="$PROJECT_DIR$/learn-servlet/src/main/java/org/zz/core/filter/PreFilter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web-demo1/src/main/java/org/zz/core/listener/MyServletContextListener.java" beforeDir="false" afterPath="$PROJECT_DIR$/learn-servlet/src/main/java/org/zz/core/listener/MyServletContextListener.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web-demo1/src/main/java/org/zz/core/servlet/cookie/CookieServlet.java" beforeDir="false" afterPath="$PROJECT_DIR$/learn-servlet/src/main/java/org/zz/core/servlet/cookie/CookieServlet.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web-demo1/src/main/java/org/zz/core/servlet/cookie/SessionServlet.java" beforeDir="false" afterPath="$PROJECT_DIR$/learn-servlet/src/main/java/org/zz/core/servlet/cookie/SessionServlet.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web-demo1/src/main/java/org/zz/core/servlet/cookie/SessionServlet2.java" beforeDir="false" afterPath="$PROJECT_DIR$/learn-servlet/src/main/java/org/zz/core/servlet/cookie/SessionServlet2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web-demo1/src/main/java/org/zz/core/servlet/hello/HelloServlet.java" beforeDir="false" afterPath="$PROJECT_DIR$/learn-servlet/src/main/java/org/zz/core/servlet/hello/HelloServlet.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web-demo1/src/main/java/org/zz/core/servlet/hello/HelloServlet1.java" beforeDir="false" afterPath="$PROJECT_DIR$/learn-servlet/src/main/java/org/zz/core/servlet/hello/HelloServlet1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web-demo1/src/main/java/org/zz/core/servlet/hello/HelloServlet2.java" beforeDir="false" afterPath="$PROJECT_DIR$/learn-servlet/src/main/java/org/zz/core/servlet/hello/HelloServlet2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web-demo1/src/main/java/org/zz/core/servlet/learn/LearnServlet.java" beforeDir="false" afterPath="$PROJECT_DIR$/learn-servlet/src/main/java/org/zz/core/servlet/learn/LearnServlet.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web-demo1/src/main/java/org/zz/core/servlet/request/RequestServlet.java" beforeDir="false" afterPath="$PROJECT_DIR$/learn-servlet/src/main/java/org/zz/core/servlet/request/RequestServlet.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web-demo1/src/main/webapp/WEB-INF/web.xml" beforeDir="false" afterPath="$PROJECT_DIR$/learn-servlet/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web-demo1/src/main/webapp/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/learn-servlet/src/main/webapp/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web-demo1/target/web-demo1-1.0-SNAPSHOT/META-INF/MANIFEST.MF" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web-demo1/target/web-demo1-1.0-SNAPSHOT/WEB-INF/web.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web-demo1/target/web-demo1-1.0-SNAPSHOT/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web-demo2/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web-demo2/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/empty-web-template/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web-demo2/src/main/java/org/zz/core/entity/Student.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web-demo2/src/main/java/org/zz/core/servlet/jsp/JspServlet.java" beforeDir="false" afterPath="$PROJECT_DIR$/learn-servlet/src/main/java/org/zz/core/servlet/jsp/JspServlet.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web-demo2/src/main/java/org/zz/core/servlet/redirect/RedirectServlet.java" beforeDir="false" afterPath="$PROJECT_DIR$/learn-servlet/src/main/java/org/zz/core/servlet/redirect/RedirectServlet.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web-demo2/src/main/java/org/zz/core/servlet/redirect/RedirectServlet1.java" beforeDir="false" afterPath="$PROJECT_DIR$/learn-servlet/src/main/java/org/zz/core/servlet/redirect/RedirectServlet1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web-demo2/src/main/java/org/zz/core/servlet/redirect/RedirectServlet2.java" beforeDir="false" afterPath="$PROJECT_DIR$/learn-servlet/src/main/java/org/zz/core/servlet/redirect/RedirectServlet2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web-demo2/src/main/webapp/WEB-INF/web.xml" beforeDir="false" afterPath="$PROJECT_DIR$/empty-web-template/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web-demo2/src/main/webapp/index.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/empty-web-template/src/main/webapp/index.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web-demo2/src/main/webapp/jsp/doLogin.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/learn-servlet/src/main/webapp/WEB-INF/jsp/doLogin.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web-demo2/src/main/webapp/jsp/include.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/learn-servlet/src/main/webapp/WEB-INF/jsp/include.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web-demo2/src/main/webapp/jsp/info.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/learn-servlet/src/main/webapp/WEB-INF/jsp/info.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web-demo2/src/main/webapp/jsp/jstl.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/learn-servlet/src/main/webapp/WEB-INF/jsp/jstl.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web-demo2/src/main/webapp/jsp/login.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/learn-servlet/src/main/webapp/WEB-INF/jsp/login.jsp" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="Jsp File" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -68,7 +117,8 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
     &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;last_opened_file_path&quot;: &quot;E:/jungle/github/zz-guide/java-web-guide/alipay-sandbox&quot;,
+    &quot;jdk.selected.JAVA_MODULE&quot;: &quot;17&quot;,
+    &quot;last_opened_file_path&quot;: &quot;E:/jungle/github/zz-guide/java-alipay-sandbox&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
@@ -83,24 +133,24 @@
 }</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\jungle\github\zz-guide\java-web-guide\learn-jsp\src\main\webapp\jstl" />
+      <recent name="E:\jungle\github\zz-guide\java-web-guide\learn-jsp\src\main\webapp\el" />
+      <recent name="E:\jungle\github\zz-guide\java-web-guide\learn-jsp\src\main\webapp\builtin" />
+      <recent name="E:\jungle\github\zz-guide\java-web-guide\learn-jsp\src\main\webapp" />
       <recent name="E:\jungle\github\zz-guide\java-web-guide\alipay-sandbox" />
-      <recent name="E:\jungle\github\zz-guide\java-web-guide\web-demo2\src\main\java\org\zz\core\servlet" />
-      <recent name="E:\jungle\github\zz-guide\java-web-guide" />
-      <recent name="E:\jungle\github\zz-guide\java-web-guide\demo1" />
-      <recent name="E:\jungle\github\zz-guide\java-web-guide\mybatis-guide" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\jungle\github\zz-guide\java-web-guide\web-demo1\src\main\webapp\WEB-INF" />
       <recent name="E:\jungle\github\zz-guide\java-web-guide\alipay-sandbox\src\main\java" />
       <recent name="E:\jungle\github\zz-guide\java-web-guide\alipay-sandbox\src\main" />
       <recent name="E:\jungle\github\zz-guide\java-web-guide\web-demo1\src\main\java\org\zz\core" />
       <recent name="E:\jungle\github\zz-guide\java-web-guide" />
-      <recent name="E:\jungle\github\zz-guide\java-web-guide\mybatis-guide\mybatis" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="org.zz.core.servlet.hello" />
     </key>
   </component>
-  <component name="RunManager" selected="Tomcat Server.支付宝沙箱支付">
+  <component name="RunManager" selected="Tomcat Server.learn-jsp">
     <configuration name="支付宝沙箱支付" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 9.0.87" ALTERNATIVE_JRE_ENABLED="false">
       <option name="COMMON_VM_ARGUMENTS" value="-Dfile.encoding=UTF-8" />
       <option name="UPDATING_POLICY" value="restart-server" />
@@ -189,19 +239,21 @@
         </option>
       </method>
     </configuration>
-    <configuration name="Tomcat 9.0.87" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 9.0.87" ALTERNATIVE_JRE_ENABLED="false">
+    <configuration name="learn-jsp" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 9.0.87" ALTERNATIVE_JRE_ENABLED="false">
+      <option name="BROWSER_ID" value="37cae5b9-e8b2-4949-9172-aafa37fbc09c" />
       <option name="COMMON_VM_ARGUMENTS" value="-Dfile.encoding=UTF-8" />
-      <option name="SHOW_DIALOG_ON_UPDATE" value="false" />
+      <option name="UPDATE_ON_FRAME_DEACTIVATION" value="true" />
+      <option name="UPDATE_CLASSES_ON_FRAME_DEACTIVATION" value="true" />
       <option name="UPDATING_POLICY" value="redeploy-artifacts" />
       <deployment>
-        <artifact name="web-demo1:war">
+        <artifact name="learn-jsp:war exploded">
           <settings>
-            <option name="CONTEXT_PATH" value="/web_demo1_war" />
+            <option name="CONTEXT_PATH" value="/learn_jsp_war_exploded" />
           </settings>
         </artifact>
       </deployment>
       <server-settings>
-        <option name="BASE_DIRECTORY_NAME" value="a5a7fe50-b880-4fea-a782-3c93d1c1af6a" />
+        <option name="BASE_DIRECTORY_NAME" value="ae6bfce6-821b-421c-b2a6-68a9b8234362" />
       </server-settings>
       <predefined_log_file enabled="true" id="Tomcat" />
       <predefined_log_file enabled="true" id="Tomcat Catalina" />
@@ -209,7 +261,7 @@
       <predefined_log_file id="Tomcat Host Manager" />
       <predefined_log_file id="Tomcat Localhost Access" />
       <RunnerSettings RunnerId="Debug">
-        <option name="DEBUG_PORT" value="10938" />
+        <option name="DEBUG_PORT" value="12815" />
       </RunnerSettings>
       <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
         <option name="USE_ENV_VARIABLES" value="true" />
@@ -274,13 +326,13 @@
       <method v="2">
         <option name="Make" enabled="true" />
         <option name="BuildArtifacts" enabled="true">
-          <artifact name="web-demo1:war" />
+          <artifact name="learn-jsp:war exploded" />
         </option>
       </method>
     </configuration>
     <list>
       <item itemvalue="Tomcat Server.支付宝沙箱支付" />
-      <item itemvalue="Tomcat Server.Tomcat 9.0.87" />
+      <item itemvalue="Tomcat Server.learn-jsp" />
     </list>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -302,6 +354,12 @@
       <workItem from="1715787005784" duration="552000" />
       <workItem from="1715787564899" duration="3947000" />
       <workItem from="1715791531302" duration="239000" />
+      <workItem from="1715840771760" duration="5071000" />
+      <workItem from="1715849209446" duration="6661000" />
+      <workItem from="1717779607645" duration="23000" />
+      <workItem from="1717781586554" duration="27000" />
+      <workItem from="1719728361216" duration="18244000" />
+      <workItem from="1719764417437" duration="106000" />
     </task>
     <servers />
   </component>
@@ -312,7 +370,7 @@
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/web-demo1/src/main/webapp/index.html</url>
+          <url>file://$PROJECT_DIR$/learn-servlet/src/main/webapp/index.html</url>
           <line>11</line>
           <option name="timeStamp" value="1" />
         </line-breakpoint>
