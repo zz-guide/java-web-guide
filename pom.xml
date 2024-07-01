@@ -13,6 +13,8 @@
         <module>empty-web-template</module>
         <module>learn-jsp</module>
         <module>learn-servlet</module>
+        <module>learn-thymeleaf</module>
+        <module>learn-annotation-servlet</module>
     </modules>
     <version>1.0-SNAPSHOT</version>
 

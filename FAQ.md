@@ -53,7 +53,7 @@
         (2)req.setCharacterEncoding("UTF-8");
         (3)修改tomcat配置文件<Connector connectionTimeout="20000" port="8080" protocol="HTTP/1.1" redirectPort="8443" URIEncoding="UTF-8"/>
         增加URIEncoding="UTF-8"配置
-        (4) String name = new String("许磊".getBytes(), StandardCharsets.UTF_8);对字符串进行编码解码
+        (4) String name = new String("仔仔".getBytes(), StandardCharsets.UTF_8);对字符串进行编码解码
         
 
 # 配置方式
@@ -109,7 +109,7 @@
     <%@ taglib prefix="c" uri="http://java.sun.com/jsp/jstl/core" %>
     2.常用原生jsp标签
         
-       导入一个类 <%@page import="com.xulei.pojo.User"%>
+       导入一个类 <%@page import="org.zz.pojo.User"%>
 
         <jsp:include page="页面">	包含
         <jsp:param name="name" value="value">	传参
