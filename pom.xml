@@ -28,9 +28,7 @@
         <servlet.api.version>6.0.0</servlet.api.version>
         <servlet.jsp.api.version>3.1.1</servlet.jsp.api.version>
         <servlet.jsp.jstl.api.version>3.0.0</servlet.jsp.jstl.api.version>
-        <taglibs.standard.impl.version>1.2.5</taglibs.standard.impl.version>
-        <taglibs.standard.spec.version>1.2.5</taglibs.standard.spec.version>
-
+        <jakarta.servlet.jsp.jstl.version>3.0.1</jakarta.servlet.jsp.jstl.version>
         <fastjson2.version>2.0.47</fastjson2.version>
     </properties>
 
@@ -75,19 +73,11 @@
                 <version>${servlet.jsp.jstl.api.version}</version>
             </dependency>
 
-            <!-- https://mvnrepository.com/artifact/org.apache.taglibs/taglibs-standard-impl -->
+            <!-- https://mvnrepository.com/artifact/org.glassfish.web/jakarta.servlet.jsp.jstl -->
             <dependency>
-                <groupId>org.apache.taglibs</groupId>
-                <artifactId>taglibs-standard-impl</artifactId>
-                <version>${taglibs.standard.impl.version}</version>
-                <scope>runtime</scope>
-            </dependency>
-
-            <!-- https://mvnrepository.com/artifact/org.apache.taglibs/taglibs-standard-spec -->
-            <dependency>
-                <groupId>org.apache.taglibs</groupId>
-                <artifactId>taglibs-standard-spec</artifactId>
-                <version>${taglibs.standard.spec.version}</version>
+                <groupId>org.glassfish.web</groupId>
+                <artifactId>jakarta.servlet.jsp.jstl</artifactId>
+                <version>${jakarta.servlet.jsp.jstl.version}</version>
             </dependency>
 
             <!-- https://mvnrepository.com/artifact/com.alibaba.fastjson2/fastjson2 -->
