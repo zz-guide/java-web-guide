@@ -11,6 +11,7 @@
 - [x] learn-servlet-annotation
 - [x] learn-servlet-fud
 - [x] learn-thymeleaf
+- [x] learn-freemarker
 
 ## tomcat乱码
 启动增加vm参数: -Dfile.encoding=UTF-8

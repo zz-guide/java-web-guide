@@ -1,5 +1,5 @@
 <!doctype html>
-<html lang="zh">
+<html lang="zh" xmlns:th="http://www.thymeleaf.org">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport"
@@ -9,5 +9,7 @@
 </head>
 <body>
 <h1>练习 thymeleaf</h1>
+<h1 th:text="${msg}">不经过解析时候的默认信息</h1>
+<h1 th:text="1213123">asdasd</h1>
 </body>
 </html>
