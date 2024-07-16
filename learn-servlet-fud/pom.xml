@@ -8,22 +8,22 @@
         <version>1.0-SNAPSHOT</version>
     </parent>
 
-    <groupId>org.zz.web.guide.servlet</groupId>
-    <artifactId>learn-servlet</artifactId>
+    <groupId>org.zz.web.guide.fud</groupId>
+    <artifactId>learn-servlet-fud</artifactId>
     <packaging>war</packaging>
-    <name>learn-servlet</name>
+    <name>learn-servlet-fud</name>
 
     <dependencies>
-        <dependency>
-            <groupId>org.projectlombok</groupId>
-            <artifactId>lombok</artifactId>
-            <scope>provided</scope>
-        </dependency>
-
         <dependency>
             <groupId>org.junit.jupiter</groupId>
             <artifactId>junit-jupiter-api</artifactId>
             <scope>test</scope>
+        </dependency>
+
+        <dependency>
+            <groupId>org.projectlombok</groupId>
+            <artifactId>lombok</artifactId>
+            <scope>provided</scope>
         </dependency>
 
         <dependency>
@@ -39,9 +39,20 @@
         </dependency>
 
         <dependency>
+            <groupId>jakarta.servlet.jsp.jstl</groupId>
+            <artifactId>jakarta.servlet.jsp.jstl-api</artifactId>
+        </dependency>
+
+        <dependency>
             <groupId>org.glassfish.web</groupId>
             <artifactId>jakarta.servlet.jsp.jstl</artifactId>
         </dependency>
 
     </dependencies>
+
+    <build>
+        <resources>
+
+        </resources>
+    </build>
 </project>

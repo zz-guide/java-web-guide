@@ -5,12 +5,12 @@
 - api全部采用jakarta.servlet.*
 
 
-# roadmap
-- jsp
-- jstl
-- servlet
-- thymeleaf
-
+# 模块
+- [x] learn-jsp
+- [x] learn-servlet
+- [x] learn-servlet-annotation
+- [x] learn-servlet-fud
+- [x] learn-thymeleaf
 
 ## tomcat乱码
 启动增加vm参数: -Dfile.encoding=UTF-8
