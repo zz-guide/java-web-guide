@@ -9,13 +9,38 @@
     <title>文件上传</title>
 </head>
 <body>
-    <h1>文件上传示例</h1>
-    <form action="${pageContext.request.contextPath}/file/upload" method="post" enctype="multipart/form-data">
+<div>
+    <h1>测试文件上传参数</h1>
+    <form action="${pageContext.request.contextPath}/file/upload/t1" method="post" enctype="multipart/form-data">
         <label for="file">选择文件：
             <input type="file" id="file" name="file" accept=".jpg, .jpeg, .png, .gif">
         </label>
 
         <input type="submit" value="上传">
     </form>
+</div>
+<br />
+<div>=============================================================================</div>
+<div>
+    <h1>文件上传一(自己构造输入输出流)</h1>
+    <form action="${pageContext.request.contextPath}/file/upload/t2" method="post" enctype="multipart/form-data">
+        <label for="file2">选择文件：
+            <input type="file" id="file2" name="file2" accept=".jpg, .jpeg, .png, .gif">
+        </label>
+
+        <input type="submit" value="上传">
+    </form>
+</div>
+<br />
+<div>
+    <h1>文件上传二(Part.write())</h1>
+    <form action="${pageContext.request.contextPath}/file/upload/t3" method="post" enctype="multipart/form-data">
+        <label for="file3">选择文件：
+            <input type="file" id="file3" name="file3" accept=".jpg, .jpeg, .png, .gif">
+        </label>
+
+        <input type="submit" value="上传">
+    </form>
+</div>
 </body>
 </html>

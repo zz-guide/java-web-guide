@@ -13,17 +13,18 @@
     <div>
         <div>测试不加download属性</div>
         <div>浏览器能识别的话直接就显示出来了，而不是下载</div>
-        <div><a href="static/img/test.jpeg">超链接下载图片</a></div>
-        <div><a href="static/text/test.txt">超链接下载文本</a></div>
+        <div><a href="static/download/test.jpg">超链接下载图片</a></div>
+        <div><a href="static/download/test.txt">超链接下载文本</a></div>
     </div>
     <br />
     <div>
         <div>测试增加download属性</div>
         <div>这次变成直接下载了，而不是显示</div>
-        <div><a href="static/img/test.jpeg" download>超链接下载图片</a></div>
-        <div><a href="static/text/test.txt" download>超链接下载文本</a></div>
+        <div><a href="static/download/test.jpg" download>超链接下载图片</a></div>
+        <div><a href="static/download/test.txt" download>超链接下载文本</a></div>
 
-        <div><a href="file/download">servlet下载</a></div>
+        <div><a href="file/download/t1">下载本地服务器文件</a></div>
+        <div><a href="file/download/t2">下载任意远程文件</a></div>
     </div>
 
 </body>
